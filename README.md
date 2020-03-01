@@ -1,8 +1,8 @@
 # AssaultCube-DirectX-ESP-Overlay
-Simple proof of concept on how to draw to an overlay through the use of DirectX in Assault Cube. It's a lot faster than GDI drawing
+Simple proof of concept on how to draw to an overlay through the use of DirectX in Assault Cube.
 
-- WHAT DOES THIS PROGRAM DO?
-  - Finds players on the game map and draws a distance from one self to their person.
+- WHAT IS THIS:
+  - This small hack finds players on the game map and draws a distance from one self to their person.
   - ![alt text](https://github.com/Ctrl-Alt-1337/AssaultCube-DirectX-ESP-Overlay/blob/master/screenshot.jpg)
 
 - HOW-TO:
