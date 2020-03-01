@@ -24,4 +24,4 @@ Simple proof of concept on how to draw to an overlay through the use of DirectX 
 	- WorldToScreen: Guidedhacking.com
 
 - DISCLAIMER:
-  - This hack should never be used to ruin any games for other players. This serves solely as a learning purpose to better understand the workings of memory forensics and the WinAPI.
+  - This hack should never be used to ruin the game for other players. This serves solely as a purpose for learning and to better understand the workings of memory forensics and the WinAPI.
