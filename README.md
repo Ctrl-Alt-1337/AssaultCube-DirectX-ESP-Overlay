@@ -11,7 +11,7 @@ Simple proof of concept on how to draw to an overlay through the use of DirectX 
     - -> VC++ Directories -> Add '$(DXSDK_DIR)Include' to the 'Include Directories'
     - -> VC++ Directories -> Add '$(DXSDK_DIR)Lib\x86' to the 'Library Directories'
     - -> Advanced -> Character Set -> Make sure you use 'Use Multi-Byte Character Set'
-  - Platform: Win32
+  - Build the hack (platform: Win32)
   - Enter AssaultCube
   - Start the hack
   
