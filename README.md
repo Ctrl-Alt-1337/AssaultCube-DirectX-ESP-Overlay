@@ -17,7 +17,7 @@ Simple proof of concept on how to draw to an overlay through the use of DirectX 
   
 - OTHER RELEVANT INFO:
 	- Base address and offsets for entities (names, positions, health etc.) are found through OllyDbg and Cheat Engine.
-  - Relevant WinAPI functions: FindWindowA, GetWindowThreadProcessId, OpenProcess, ReadProcessMemory
+  - Relevant WinAPI functions: ```FindWindowA```, ```GetWindowThreadProcessId```, ```OpenProcess```, ```ReadProcessMemory```
 
 - CREDITS:
 	- forceinline for the DirectX overlay code: https://github.com/forceinline/cpp-dx9-overlay
