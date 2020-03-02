@@ -2,7 +2,7 @@
 Simple proof of concept on how to draw to an overlay through the use of DirectX in Assault Cube.
 
 - WHAT IS THIS:
-  - This small hack finds players on the game map and draws a distance from one self to their person.
+  - This small hack finds players on the game map and draws a distance from one self to the enemy.
     ![alt text](https://github.com/Ctrl-Alt-1337/AssaultCube-DirectX-ESP-Overlay/blob/master/screenshot1.jpg)
 
 - HOW TO RUN THE HACK:
